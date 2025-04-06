@@ -1,1 +1,12 @@
 # test
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+  <meta charset="UTF-8">
+  <title>simple_project</title>
+</head>
+<body>
+  <h1>Hello, World!</h1>
+  <p> Привет, Алгоритмика</p>
+</body>
+</html>
